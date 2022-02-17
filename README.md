@@ -1,10 +1,5 @@
 ### Hey, I´m Renata 👋
 
-<h5>:computer: I'm Full Stack Developer: Java and Python</h5>
-
-<h5>:house_with_garden: I live in Portugal | Porto</h5>
-
-***
 <h3>Some personal projects for learning</h3>
 
 <h4>February/2022: lotto_backend - Java11 | Back-end | Hibernate | VRaptor | TomCat Server | PostgreSQL</h4>
