@@ -1,6 +1,5 @@
 ### Hey, I´m Renata 👋
 
-<h3>Some personal projects for learning</h3>
 
 <h4 align="center">February/2022: lotto_backend - Java11 | Back-end | Hibernate | VRaptor | TomCat Server | PostgreSQL</h4>
 
