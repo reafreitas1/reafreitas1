@@ -18,7 +18,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
 
 <p align="center">
-  <img src="https://github.com/reafreitas1/currency_x_fullstack/blob/main/img/localhost4200_dashboard.jpg?raw=true" width="350" alt="CurrencyX Preview">
+  <img src="https://github.com/reafreitas1/currency_x_fullstack/blob/main/img/localhost4200_dashboard2.jpg?raw=true" width="350" alt="CurrencyX Preview">
 </p>
 
 ---
