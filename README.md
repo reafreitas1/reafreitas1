@@ -9,6 +9,19 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ### 🚀 Featured Projects
 
+#### 🌤️ PokeWeather - Full Stack Modernized (2026)
+*Integrated engine consuming OpenWeather and PokéAPI, performing real-time data crossing to suggest the perfect Pokémon match based on local weather conditions.*
+
+*   **Tech Stack:** 
+    ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-brightgreen?style=flat-square&logo=springboot)
+    ![Angular](https://img.shields.io/badge/Angular-18-red?style=flat-square&logo=angular)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reafreitas1/PokeWeather_FullStack/main/assets/sp.png" width="350" alt="PokeWeather Preview">
+</p>
+
 #### 💱 CurrencyX - Full Stack Dashboard (2026)
 *Real-time currency exchange rates with a robust backend and reactive interface.*
 *   **Tech Stack:** 
