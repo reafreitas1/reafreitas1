@@ -9,7 +9,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ### 🚀 Featured Projects
 
-#### 🌤️ PokeWeather - Full Stack Modernized (2026)
+🌤️ **[PokeWeather - Full Stack Modernized (2026)](https://github.com/reafreitas1/pokeWeather_FullStack)**
 *Integrated engine consuming OpenWeather and PokéAPI, performing real-time data crossing to suggest the perfect Pokémon match based on local weather conditions.*
 
 *   **Tech Stack:** 
@@ -21,8 +21,17 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/reafreitas1/PokeWeather_FullStack/main/assets/sp.png" width="350" alt="PokeWeather Preview">
 </p>
+---
 
-#### 💱 CurrencyX - Full Stack Dashboard (2026)
+📦 **[Java-Angular DevContainer - Professional Environment (2026)](https://github.com/reafreitas1/java-angular-devcontainer)**
+
+*Standardized Docker-based setup for isolated Full Stack development, ensuring consistency across Windows and Linux environments.*
+
+*   **Tech Stack:** ![Java 17](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![DevContainer](https://img.shields.io/badge/Dev_Container-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+💱 **[CurrencyX - Full Stack Dashboard (2026)](https://github.com/reafreitas1/currency_x_fullstack)**
 *Real-time currency exchange rates with a robust backend and reactive interface.*
 *   **Tech Stack:** 
     ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
@@ -36,7 +45,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ---
 
-#### 🎰 Lotto Backend (2022)
+🎰 **[Lotto Backend (2022)](https://github.com/reafreitas1/lotto_backend)**
 *Lottery management system developed using traditional MVC architecture.*
 *   **Tech Stack:** 
     ![Java](https://img.shields.io/badge/Java-11-orange?style=flat-square&logo=java)
@@ -49,7 +58,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ---
 
-#### 🍦 Ice Cream Angular (2021)
+🍦 **[Ice Cream Angular (2021)](https://github.com/reafreitas1/ice-cream_angular)**
 *Full-stack application for order management.*
 *   **Tech Stack:** 
     ![Angular](https://img.shields.io/badge/Angular-9-red?style=flat-square&logo=angular)
