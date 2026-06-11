@@ -9,7 +9,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ### 🚀 Featured Projects
 
-🌤️ **[PokeWeather - Full Stack Modernized (2026)](https://github.com/reafreitas1/pokeWeather_FullStack)**
+🌤️ **[PokeWeather - Full Stack Modernized (2026)](https://github.com/reafreitas1/pokeweather-fullstack)**
 *Integrated engine consuming OpenWeather and PokéAPI, performing real-time data crossing to suggest the perfect Pokémon match based on local weather conditions.*
 
 *   **Tech Stack:** 
@@ -21,6 +21,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/reafreitas1/PokeWeather_FullStack/main/assets/sp.png" width="350" alt="PokeWeather Preview">
 </p>
+
 ---
 
 📦 **[Java-Angular DevContainer - Professional Environment (2026)](https://github.com/reafreitas1/java-angular-devcontainer)**
@@ -31,7 +32,7 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ---
 
-💱 **[CurrencyX - Full Stack Dashboard (2026)](https://github.com/reafreitas1/currency_x_fullstack)**
+💱 **[CurrencyX - Full Stack Dashboard (2026)](https://github.com/reafreitas1/currency-x-fullstack)**
 *Real-time currency exchange rates with a robust backend and reactive interface.*
 *   **Tech Stack:** 
     ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
@@ -45,15 +46,19 @@ Results-oriented developer with over 4 years of experience in tech consultancy. 
 
 ---
 
-🎰 **[Lotto Backend (2022)](https://github.com/reafreitas1/lotto_backend)**
-*Lottery management system developed using traditional MVC architecture.*
+🎰 **[Lotto Fullstack (2022)](https://github.com/reafreitas1/lotto-fullstack)**
+*Lottery management system developed using traditional MVC architecture with Java and VRaptor.*
+
 *   **Tech Stack:** 
     ![Java](https://img.shields.io/badge/Java-11-orange?style=flat-square&logo=java)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
     ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79333175/154314646-0caefb02-9a32-4762-85d3-a8ce8b4c8977.gif" width="350">
+  <img src="https://user-images.githubusercontent.com/79333175/154314646-0caefb02-9a32-4762-85d3-a8ce8b4c8977.gif" width="350" alt="Lotto Preview">
 </p>
 
 ---
