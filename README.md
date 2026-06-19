@@ -3,7 +3,24 @@
 **Software Developer | Full Stack | Tech Consultant**  
 📍 Porto, Portugal
 
-Results-oriented developer with over 4 years of experience in tech consultancy. Currently focusing on the **Java/Spring** ecosystem and **Modern Frontend** architectures to build scalable and efficient solutions.
+Results-oriented developer with over 6 years of experience in tech consultancy. Currently focusing on the **Java/Spring** ecosystem and **Modern Frontend** architectures to build scalable and efficient solutions.
+
+---
+
+💡 **[AI Study Assistant - Full Stack GenAI (2026)](https://github.com/reafreitas1/ai-study-assistant)**
+*Interactive study platform that leverages Generative AI (Google Gemini) to transform any topic or long text into structured summaries and 3D animated flashcards for active recall study.*
+
+*   **Tech Stack:** 
+    ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-brightgreen?style=flat-square&logo=springboot)
+    ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring)
+    ![Angular](https://img.shields.io/badge/Angular-18-red?style=flat-square&logo=angular)
+    ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/69a14a81-a2a2-445c-ac31-473e58d829e7" width="500" autoplay muted loop playsinline>
+  </video>
+</p>
 
 ---
 
